@@ -1,6 +1,6 @@
 ## Test the cost of virtus object creation
 
-Test the time taken by Virtus to create objects vs time taken when objects are created normally.
+Test the time taken by [Virtus](https://github.com/solnic/virtus) to create objects vs time taken when objects are created normally.
 
 Does not look good -
 
